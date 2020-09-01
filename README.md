@@ -26,4 +26,14 @@ I researched a bit about this, is an easy problem, but one that i wish i didn't 
 		cls()
 	)
 	
+#How to install it on your Project (TERMINAL VERSION)
+
+1) Go to your project folder in terminal
+2) Put this command $ git clone https://github.com/PistachoDuck/Python-Clear-Screen-Multiplatform-Module.git
+3) Exctract it, and you're ready to use it on your project
+4) put this at the beggining of your code:
+	
+		from cls import cls
+		
+That's it.
 Have a nice day.
